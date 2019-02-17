@@ -5,7 +5,7 @@
     "sinfo": "欢迎观看志哥整理IPTV节目",
     "Live": [
         {
-            "Category": "雨婷世纪",
+            "Category": "zhig",
             "id": 1,
             "name": "凤凰中文HD",
             "httpurl": "http://111.13.42.13/PLTV/88888888/224/3221225942/1.m3u8",
@@ -2878,4 +2878,4 @@
     "Category": [
         "雨婷世纪"
     ]
-} 
+}
